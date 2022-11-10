@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "acheron_MX")(type "KiCad")(uri "E:/Roinaa/Keyboard/kicad/AlexandriaLibrary/footprints/acheron_MX.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "E:/Roinaa/Keyboard/kicad/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "migi")(type "KiCad")(uri "E:/Roinaa/Keyboard/kicad/migi.pretty")(options "")(descr ""))
+  (lib (name "migi-art")(type "KiCad")(uri "E:/Roinaa/Keyboard/kicad/migi-art.pretty")(options "")(descr ""))
+)

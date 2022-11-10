@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "keebio")(type "Legacy")(uri "E:/Roinaa/Keyboard/kicad/keebio-components/keebio.lib")(options "")(descr ""))
+  (lib (name "lebacon")(type "KiCad")(uri "E:/Roinaa/Keyboard/kicad/lebacon.kicad_sym")(options "")(descr ""))
+)
