@@ -1,6 +1,6 @@
 # Disorder30
 
-Iso adaptation / remix of dcpedits [Dissatisfaction30](https://github.com/dcpedit/dissatisfaction30).
+ISO adaptation of dcpedits [Dissatisfaction30](https://github.com/dcpedit/dissatisfaction30).
 Includes original "75%" layout and extended "1800" layout.
 
 ![Disorder30 layout](https://github.com/mkylama/disorder30/blob/master/images/disorder30_layout.png)
@@ -15,7 +15,7 @@ Component | Disorder30 | Disorder30 extended
 | Pro Micro or other compatible mcu | 1 | 1 |
 | MX Switches | 30-31 | 37-39 |
 | 2u Stabilizer | 2 | 2-3 |
-| EC11 Encoder (optional) | 0-1 | 0-1 |
+| EC11 Encoder (optional) | 1 | 1 |
 | SSD1306 128x32 0.91" OLED (optional) | 1 | 1 |
 
 ### Case
